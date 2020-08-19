@@ -7,3 +7,5 @@ Here you will find a simple portfolio displaying some of my skills, interests, p
 - CSS / Bootstrap
 - Javascript
 - Font Awesome
+
+View the live site here: https://cadeclark.github.io/react-portfolio/
